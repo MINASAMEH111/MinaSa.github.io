@@ -1,6 +1,6 @@
 # MinaSa.github.io
 # Repository Name
-![Engineer Character](https://octodex.github.com/manufacturetocat.jpg)
+![Engineer Character](https://octodex.github.com/manufacturetocat.png)
 ## Overview
 Brief overview or description of your repository.
 
